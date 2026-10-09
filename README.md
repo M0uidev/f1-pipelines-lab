@@ -5,3 +5,7 @@ A class notebook on an invented race-weekend dataset. Weeks 1–10 are for train
 Section 9 tests one extra feature, `estimated_grid_position`, against a dummy baseline using balanced accuracy.
 
 The data is synthetic, so the results say nothing about real Formula 1.
+
+## Authors
+
+Matías Mouat and María José Lopez
