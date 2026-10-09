@@ -1,6 +1,7 @@
 # F1 top-10 prediction with scikit-learn Pipelines
 
-Teaching notebook on a synthetic (invented) race-weekend dataset. Weeks 1–10 train, 11–14 validate, 15–18 stay reserved.
-Section 9 tests one pre-race feature, `estimated_grid_position`, against a dummy baseline using balanced accuracy.
+A class notebook on an invented race-weekend dataset. Weeks 1–10 are for training, 11–14 for validation, and 15–18 stay untouched.
 
-The data are synthetic; results say nothing about real Formula 1.
+Section 9 tests one extra feature, `estimated_grid_position`, against a dummy baseline using balanced accuracy.
+
+The data is synthetic, so the results say nothing about real Formula 1.
